@@ -1,0 +1,11 @@
+important to responsive web design
+
+screens sizes
+https://getbootstrap.com/docs/5.0/layout/breakpoints/
+
+normalize
+https://necolas.github.io/normalize.css/8.0.1/normalize.css
+
+logos without background
+https://pngtree.com/free-logo-png
+
